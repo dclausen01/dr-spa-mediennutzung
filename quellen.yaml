@@ -1,0 +1,71 @@
+# Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
+- id: q-bildungsleitlinien
+  titel: Land Schleswig-Holstein – Bildungsleitlinien für Kitas und Kindertagespflege (Februar 2026), Landesportal
+  url: https://www.schleswig-holstein.de/DE/fachinhalte/K/kita/bill/bildungsleitlinien
+  art: lehrplan
+  status: zu_pruefen
+  geprueft_am: 2026-11-09
+  belegt: "Seite war bei der Prüfung nicht erreichbar (503). Inhalt des Abschnitts Medien und Digitalisierung NICHT geprüft – die Schüler:innen arbeiten in K1 direkt mit dem Originaltext."
+- id: q-jugendhilfeportal
+  titel: Jugendhilfeportal – Neue Bildungsleitlinien für Kitas (2026)
+  url: https://jugendhilfeportal.de/artikel/neue-bildungsleitlinien-fuer-kitas
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "neue Leitlinien Februar 2026; Bildungsthemen u. a. Medien und Digitalisierung; Grundprinzipien Partizipation, Inklusion/Antidiskriminierung, Kinderschutz, Nachhaltigkeit"
+- id: q-awmf-s2k
+  titel: S2k-Leitlinie „Prävention dysregulierten Bildschirmmediengebrauchs in Kindheit und Jugend“ (AWMF-Register 027-075, 2023; Elternversion 2024)
+  url: https://register.awmf.org/assets/guidelines/027-075l_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "unter 3: keine Bildschirmmedien; 3–6: max. 30 Min./Tag, nicht allein, bildschirmfreie Tage; 6–9: ca. 30–45 Min. Freizeit; nicht als Belohnung/Strafe/Beruhigung; beim Essen aus; Vorbild (geprüft über Ärzte Zeitung, PDF selbst war nicht abrufbar)"
+- id: q-aerztezeitung-s2k
+  titel: Ärzte Zeitung – Neue S2k-Leitlinie – Die Kleinsten sollten bildschirmfrei bleiben
+  url: https://www.aerztezeitung.de/Medizin/Neue-S2k-Leitlinie-Die-Kleinsten-sollten-bildschirmfrei-bleiben-443093.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Altersempfehlungen der S2k-Leitlinie (siehe q-awmf-s2k)"
+- id: q-apple-bildschirmzeit
+  titel: Apple Support – Bildschirmzeit auf dem iPhone
+  url: https://support.apple.com/de-de/guide/iphone/iphbfa595995/ios
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Einstellungen › Bildschirmzeit › Alle Aktivitäten anzeigen (mehrere übereinstimmende Quellen). Fokus über Kontrollzentrum: zu prüfen."
+- id: q-google-wellbeing
+  titel: Google Hilfe – Digital Wellbeing auf Android
+  url: https://support.google.com/android/answer/9346420
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Einstellungen › Digital Wellbeing (und Jugendschutzeinstellungen); Name je nach Hersteller verschieden (Samsung: Digitales Wohlbefinden und Kindersicherung). Bitte-nicht-stören über Schnelleinstellungen: zu prüfen."
+- id: q-nummergegenkummer
+  titel: Nummer gegen Kummer – Kinder- und Jugendtelefon 116 111
+  url: https://www.nummergegenkummer.de
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "116 111 kostenlos und anonym, auch zu Cybermobbing (Öffnungszeiten bewusst nicht genannt, Quellen widersprüchlich)"
+- id: q-juuuport
+  titel: juuuport – Online-Beratung von Jugendlichen für Jugendliche
+  url: https://www.juuuport.de
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Peer-Beratung bei Cybermobbing und Online-Problemen"
+- id: q-klicksafe
+  titel: klicksafe – Cybermobbing rechtzeitig erkennen und handeln
+  url: https://www.klicksafe.de/news/cybermobbing-rechtzeitig-erkennen-und-handeln
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Merkmale von Cybermobbing; Schritte: Beweise sichern, blockieren, melden, Vertrauensperson, Beratung; Anzeige möglich"
+- id: q-dr-konzept
+  titel: DR-Konzept SPA (Entwurf v0.5) und Übergabe-Briefing Web-Lernpfade
+  url: ""
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Bausteine von Lernpfad 3, doppelte Vermittlungspraxis, Rollenspiel-Format Elterngespräch (Fachkraft, Elternteil, Beobachter:in)"

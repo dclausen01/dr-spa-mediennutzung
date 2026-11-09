@@ -1,0 +1,57 @@
+# Kursbeschreibung – Mediennutzung reflektieren und Medienerziehung (DR-Materialpool SPA, Querschnitts-Lernpfad K7)
+titel: Mediennutzung reflektieren und Medienerziehung
+kurzname: dr-spa-mediennutzung
+ueberschrift: Mediennutzung reflektieren und Medienerziehung
+untertitel: Sie denken über Ihre eigene Mediennutzung nach – und lernen, Kinder und Eltern beim Umgang mit Medien gut zu begleiten.
+badges: [SPA, K7 Mediennutzung, "2 Stufen · ca. 6 Std."]
+fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
+logo_zeichen: "▶"
+sprache: de
+anrede: sie
+notizfrage: "Was nehmen Sie mit – für Ihre eigene Mediennutzung und für Ihre Arbeit in Kita, OGS oder Grundschule?"
+
+einleitung: |
+  :::notiz 👉 Worum geht es?
+  Medien gehören zu Ihrem Alltag – und zum Alltag der Kinder, mit denen Sie arbeiten. Als Fachkraft sind Sie **Vorbild**: Kinder und Eltern merken, wie Sie selbst mit dem Handy umgehen.
+
+  Deshalb beginnt dieser Lernpfad bei **Ihnen**: Stufe 1 „Ich und Medien“. Danach geht es um **Kinder und Eltern**: Stufe 2 „Kinder und Medien“. Jede Stufe passt in einen DR-Tag.
+  :::
+
+  :::tipp So arbeiten Sie mit dem Lernpfad
+  1. Machen Sie zuerst den **Selbstcheck** unten.
+  2. Arbeiten Sie die Module einer Stufe der Reihe nach durch.
+  3. Ihre eigenen Mediendaten (zum Beispiel die Bildschirmzeit) bleiben **privat**. Sie geben nur Ihre Gedanken dazu ab.
+  4. Alle Fälle sind **erfunden**. Verwenden Sie keine echten Namen aus Ihrer Praxis.
+  :::
+
+stufen:
+  - id: ich-und-medien
+    name: Ich und Medien
+    icon: "🌱"
+    text: Medienbiografie, eigene Bildschirmzeit, digitales Wohlbefinden und Cybermobbing.
+    module: [i1, i2, i3, i4, im]
+  - id: kinder-und-medien
+    name: Kinder und Medien
+    icon: "🚀"
+    text: Bildungsthema „Medien und Digitalisierung“, Medien in jedem Alter, Eltern beraten.
+    module: [k1, k2, k3, km]
+
+selbstcheck:
+  fragen:
+    - frage: Ich weiß ungefähr, wie viel Zeit ich täglich am Handy verbringe – und wofür.
+      antworten: [Keine Ahnung, Ungefähr, Ziemlich genau, Ganz genau]
+    - frage: Ich kann mich konzentrieren, ohne ständig aufs Handy zu schauen.
+      antworten: [Kaum, Manchmal, Meistens, Fast immer]
+    - frage: Ich kann erklären, was Cybermobbing ist und was man dagegen tun kann.
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+  empfehlung:
+    - {bis: 6, stufe: ich-und-medien, hinweis: "Starten Sie mit „Ich und Medien“ – Modul I1."}
+    - {stufe: kinder-und-medien, hinweis: "Sie kennen Ihre Mediennutzung schon gut. Machen Sie den Einstufungstest – oder starten Sie trotzdem mit I1, denn die Reflexion lohnt sich immer."}
+
+einstufung: {bestehen: 80}
+
+moodle:
+  version: 5
+  freischaltung: einstufung
+  reihenfolge: nacheinander
+  raster_punkte: [0, 2, 3]

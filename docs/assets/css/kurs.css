@@ -1,0 +1,9 @@
+/* Erzeugt von bauen.py: Farben der Stufen und Varianten dieses Kurses. */
+:root {
+  --lv-ich-und-medien: var(--lv-1); --lv-ich-und-medien-soft: var(--lv-1-soft);
+  --lv-kinder-und-medien: var(--lv-2); --lv-kinder-und-medien-soft: var(--lv-2-soft);
+}
+.badge.lv-ich-und-medien { background: var(--lv-ich-und-medien-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-ich-und-medien); }
+.level-card.ich-und-medien { border-top-color: var(--lv-ich-und-medien); }
+.badge.lv-kinder-und-medien { background: var(--lv-kinder-und-medien-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-kinder-und-medien); }
+.level-card.kinder-und-medien { border-top-color: var(--lv-kinder-und-medien); }

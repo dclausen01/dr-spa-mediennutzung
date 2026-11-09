@@ -1,0 +1,96 @@
+{
+ "titel": "Mediennutzung reflektieren und Medienerziehung",
+ "kurzname": "dr-spa-mediennutzung",
+ "seiten": [
+  {
+   "datei": "i1-meine-medienbiografie.html",
+   "art": "modul",
+   "id": "i1",
+   "titel": "Meine Medienbiografie",
+   "review": "geprueft"
+  },
+  {
+   "datei": "i2-mein-medientag.html",
+   "art": "modul",
+   "id": "i2",
+   "titel": "Mein Medientag",
+   "review": "geprueft"
+  },
+  {
+   "datei": "i3-digitales-wohlbefinden.html",
+   "art": "modul",
+   "id": "i3",
+   "titel": "Digitales Wohlbefinden",
+   "review": "geprueft"
+  },
+  {
+   "datei": "i4-cybermobbing-erkennen-und-handeln.html",
+   "art": "modul",
+   "id": "i4",
+   "titel": "Cybermobbing erkennen und handeln",
+   "review": "geprueft"
+  },
+  {
+   "datei": "im-meilenstein-meine-medienreflexion.html",
+   "art": "modul",
+   "id": "im",
+   "titel": "Meilenstein: Meine Medienreflexion",
+   "review": "geprueft"
+  },
+  {
+   "datei": "k1-bildungsthema-medien-und-digitalisierung.html",
+   "art": "modul",
+   "id": "k1",
+   "titel": "Bildungsthema „Medien und Digitalisierung“",
+   "review": "geprueft"
+  },
+  {
+   "datei": "k2-medien-in-jedem-alter.html",
+   "art": "modul",
+   "id": "k2",
+   "titel": "Medien in jedem Alter",
+   "review": "geprueft"
+  },
+  {
+   "datei": "k3-eltern-zur-mediennutzung-beraten.html",
+   "art": "modul",
+   "id": "k3",
+   "titel": "Eltern zur Mediennutzung beraten",
+   "review": "geprueft"
+  },
+  {
+   "datei": "km-meilenstein-kurzberatung-vorbereiten.html",
+   "art": "modul",
+   "id": "km",
+   "titel": "Meilenstein: Kurzberatung vorbereiten",
+   "review": "geprueft"
+  },
+  {
+   "datei": "spickzettel.html",
+   "art": "seite",
+   "titel": "Spickzettel: Medien und Kinder"
+  },
+  {
+   "datei": "lehrkraefte.html",
+   "art": "lehrkraft",
+   "titel": "Für Lehrkräfte"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  },
+  {
+   "datei": "einstufung-kinder-und-medien.html",
+   "art": "einstufung",
+   "titel": "🎯 Einstufungstest: direkt zu Kinder und Medien",
+   "stufe": "kinder-und-medien",
+   "bestehen": 80
+  }
+ ]
+}
