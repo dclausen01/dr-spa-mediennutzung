@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Kurzberatung vorbereiten"
 minuten: 60
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - eine Kurzberatung für einen Elternfall planen,

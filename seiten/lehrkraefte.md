@@ -29,6 +29,6 @@ Querschnitts-Lernpfad **K7 „Mediennutzung reflektieren und gesund nutzen“** 
 
 ## Offene Punkte
 
-- **K1 Bildungsleitlinien:** Die Landesseite war bei der Erstellung nicht erreichbar. Die Schüler:innen arbeiten deshalb direkt mit dem Originaltext. Bitte einmal prüfen, ob der Link stimmt, und das PDF ggf. im Channel des Fachs bereitstellen. Die Tabelle „konsumieren oder gestalten“ ist eine allgemeine fachliche Unterscheidung, kein Zitat aus den Leitlinien.
+- **K1 Bildungsleitlinien:** Das Modul folgt Kapitel 3.7 der Leitlinien. Die Basis-Aufgabe entspricht dem Arbeitsblatt „Medienbildung und Digitalisierung in KiTas“ (Auszug Kapitel 3.7) – bitte den Auszug im Channel des Fachs bereitstellen. Die Plus-Aufgabe (kritische Bewertung) entspricht Aufgabe 4 des Arbeitsblatts.
 - **I3:** Fokus-Modus (iPhone: Kontrollzentrum › Fokus) und „Bitte nicht stören“ (Android: Schnelleinstellungen) sind je nach Gerät unterschiedlich benannt.
 - **K2:** Die Altersempfehlungen stammen aus der S2k-Leitlinie (AWMF 027-075), geprüft über einen Fachbericht der Ärzte Zeitung; das Leitlinien-PDF selbst war nicht abrufbar.

@@ -1,11 +1,11 @@
 # Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
 - id: q-bildungsleitlinien
-  titel: Land Schleswig-Holstein – Bildungsleitlinien für Kitas und Kindertagespflege (Februar 2026), Landesportal
+  titel: "Erfolgreich starten – Leitlinien für Bildung und Erziehung in Kindertageseinrichtungen und der Kindertagespflege (Schleswig-Holstein, Februar 2026), Kapitel 3.7"
   url: https://www.schleswig-holstein.de/DE/fachinhalte/K/kita/bill/bildungsleitlinien
   art: lehrplan
-  status: zu_pruefen
+  status: verifiziert
   geprueft_am: 2026-11-09
-  belegt: "Seite war bei der Prüfung nicht erreichbar (503). Inhalt des Abschnitts Medien und Digitalisierung NICHT geprüft – die Schüler:innen arbeiten in K1 direkt mit dem Originaltext."
+  belegt: "Kapitel 3.7 Sich mit Medien beschäftigen (geprüft anhand des Auszugs der Lehrkraft, laut Lehrkraft identisch mit der Landesfassung): Ziele, lineare/non-lineare Medien, Algorithmus, Familie und Smartphone, Medienfiguren, drei Wege (Alltag aufgreifen; erweitern und zumuten; Räume und Material), Handlungsprinzipien inkl. Fotoerlaubnis der Kinder"
 - id: q-jugendhilfeportal
   titel: Jugendhilfeportal – Neue Bildungsleitlinien für Kitas (2026)
   url: https://jugendhilfeportal.de/artikel/neue-bildungsleitlinien-fuer-kitas

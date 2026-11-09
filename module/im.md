@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Meine Medienreflexion"
 minuten: 30
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - die eigene Mediennutzung begründet reflektieren,
